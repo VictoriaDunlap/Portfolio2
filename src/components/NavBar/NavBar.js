@@ -33,7 +33,7 @@ function NavBar() {
             </ul>
             <ul class="navbar-nav ms-md-auto">
               <li class="nav-item">
-                <a id="nav-button" target="_blank" rel="noreferrer noopener" class="nav-link" href="https://github.com/VictoriaDunlap">
+                <a id="nav-button" target="_blank" rel="noreferrer noopener" class="nav-link" href="https://github.com/charmingcharlii">
                 <i class="fa-brands fa-github"></i> GitHub
                 </a>
               </li>
